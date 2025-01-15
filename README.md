@@ -1,3 +1,5 @@
-This is for practice for images and links and texts 
+This is for practice for images and links and texts. 
 
-thanks 
+Everything might seem weird, but it is simply for practice.
+
+Thanks.
